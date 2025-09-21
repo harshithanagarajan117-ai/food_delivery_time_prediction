@@ -55,7 +55,9 @@ Factors considered:
 | 3             | 1       | Rainy 🌧️ | 18                   |
 | 8             | 3       | Sunny ☀️  | 42                   |
 
+OUT PUT view:
 
+[MINI project 1.pdf](https://github.com/user-attachments/files/22450705/MINI.project.1.pdf)
 
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
