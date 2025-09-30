@@ -65,12 +65,4 @@ from sklearn.linear_model import LinearRegression
 # Split dataset
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 
-<img width="635" height="523" alt="Image" src="https://github.com/user-attachments/assets/4954d2b8-94d6-4050-8ecd-c89a410ff051" />
 
-<img width="695" height="470" alt="Image" src="https://github.com/user-attachments/assets/5bc87637-bdd9-47b3-ab2a-d75813a0fcc2" />
-
-<img width="540" height="393" alt="Image" src="https://github.com/user-attachments/assets/f3380209-756e-4bd7-8862-913c98b13ec6" />
-
-<img width="531" height="393" alt="Image" src="https://github.com/user-attachments/assets/55629da8-f7a4-4325-8c83-aa15bb7b2a0b" />
-
-<img width="531" height="393" alt="Image" src="https://github.com/user-attachments/assets/8c8a795f-4587-417c-901a-20e6bece82af" />
