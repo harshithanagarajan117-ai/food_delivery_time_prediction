@@ -36,11 +36,14 @@ Factors considered:
 
 ## 🏗️ Model Used
 - **Linear Regression** (baseline)  
-- Can upgrade to **Random Forest Regressor** for higher accuracy  
+- Can upgrade to **Random Forest Regressor** for higher accuracy
+
+  <img width="635" height="523" alt="Image" src="https://github.com/user-attachments/assets/4954d2b8-94d6-4050-8ecd-c89a410ff051" /> 
 
 **Training Example:**
 
 ```python
+<img width="635" height="523" alt="Image" src="https://github.com/user-attachments/assets/4954d2b8-94d6-4050-8ecd-c89a410ff051" />
 
 
 
@@ -64,5 +67,7 @@ from sklearn.linear_model import LinearRegression
 
 # Split dataset
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
+
+
 
 
